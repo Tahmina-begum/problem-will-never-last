@@ -1,0 +1,16 @@
+h{
+    font-weight: bold;
+    color: darkmagenta;
+}
+img{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.p{
+    background-color: aquamarine;
+    font-size: medium;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
